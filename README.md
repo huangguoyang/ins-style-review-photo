@@ -41,11 +41,12 @@
 
 ```
 ins-style-review-photo/
-├── SKILL.md                       # 触发词 + 工作流 + 三条纪律
+├── SKILL.md                       # 触发词 + 工作流 + 纪律
 └── references/
     ├── style-canon.md             # 真实生活风格母版（多图交集 + 成像签名四层分离）
-    ├── product-identity-lock.md   # 产品身份锁 + 保真防线
-    ├── scene-design.md            # 真实场景衍生 + 人物互动 + 系列一致性
+    ├── photographic-realism.md    # 真实生活摄影 / 自然配色 / 反渲染反商业词库
+    ├── product-identity-lock.md   # 产品身份锁 + 颜色分区 + 自然落地 + 保真防线
+    ├── scene-design.md            # 真实场景衍生 + 方向库 + 人物互动 + 系列一致性
     └── output-contract.md         # 输出合同 + 覆盖审计
 ```
 
